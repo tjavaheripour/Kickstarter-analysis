@@ -1,2 +1,2 @@
-# Kickstarter-analysys
+# Kickstarter-analysis
 Analysis of Kickstarter Crowdingfunding 
