@@ -9,7 +9,7 @@ This is an analysis of Kickstarter campaigns with a particular focus on theater 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch.png](D:\Bootcamp\module 1- excell\class work\crowdfunding Analysis- project folder\challenge 1\resources/Theater_Outcomes_vs_Launch.png.png)
+![Theater_Outcomes_vs_Launch.png](https://github.com/tjavaheripour/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
