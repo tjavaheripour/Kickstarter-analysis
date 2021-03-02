@@ -11,7 +11,7 @@ This is an analysis of Kickstarter campaigns with a particular focus on theater 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch.png](https://github.com/tjavaheripour/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+![Outcomes_vs_Goals.png](https://github.com/tjavaheripour/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
