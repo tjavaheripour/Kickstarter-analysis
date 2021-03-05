@@ -2,7 +2,7 @@
 Analysis of Kickstarter Crowdingfunding 
 ## Overview Of Project
 In this module Luise estimates a budget of over $10.000 and is hesitant about jumping into her first fundraising campaign .Throughout this module by Performing analysis on Kickstarter data and use of excel functions like conditional formatting, pivot tables, and visualizations we analyse data to uncover trends and decide whether there are specific factors that make a project's campaign successful with a particular focus on theater.
-So by visualizing campaign outcomes based on their launch dates and their funding goals, we help her to copare how different campaigns fared in relation to their launch dates and their funding goals. 
+So by visualizing campaign outcomes based on their launch dates and their funding goals, we help her to compare how different campaigns  progressed in relation to their launch dates and funding goals.
 
 ### Purpose
 
