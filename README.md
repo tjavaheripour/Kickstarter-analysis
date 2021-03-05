@@ -12,8 +12,11 @@ So by visualizing campaign outcomes based on their launch dates and their fundin
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date.
+
 ![Theater_Outcomes_vs_Launch.png](https://github.com/tjavaheripour/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
+visualize the percentage of successful, failed, and canceled plays based on the funding goal amount
 ![Outcomes_vs_Goals.png](https://github.com/tjavaheripour/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
