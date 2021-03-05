@@ -13,10 +13,13 @@ So by visualizing campaign outcomes based on their launch dates and their fundin
 
 ### Analysis of Outcomes Based on Launch Date
 visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date.
+For analyse the data we need o extract the year from the “Date Created Conversion” column with this function: =YEAR(S2) then creat a pivot table with "theater" filter then visualize the relationship between outcomes and launch month by line chart.
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/tjavaheripour/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-visualize the percentage of successful, failed, and canceled plays based on the funding goal amount
+visualize the percentage of successful, failed, and canceled plays based on the funding goal amount by line chart
+with use of countif() function for example =COUNTIFS(Kickstarter!F:F,"successful",Kickstarter!D:D,"<1000",Kickstarter!R:R,"plays") for calculate number of success
+
 ![Outcomes_vs_Goals.png](https://github.com/tjavaheripour/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
