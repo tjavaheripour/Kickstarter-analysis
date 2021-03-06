@@ -23,6 +23,8 @@ The line graph illustrates the percentage of successful, failed, and canceled pl
 We use countif() function to count how many successful, failed, and canceled projects were created with goals within the range list, for example =COUNTIFS(Kickstarter!F:F,"successful",Kickstarter!D:D,"<1000",Kickstarter!R:R,"plays") for calculate number of success then repeated this with failed and canceled campaigns as well.
 
 ![Outcomes_vs_Goals.png](https://github.com/tjavaheripour/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+
+Overall, As we notice the trend of increase and decrease of successful and failed outcomes based on goal are contract each other. By looking at the line chart we can see two dramatic drops in successful rate between $20,000 to $34,999 and $40,0000 and $49,999 funding goals. However, The most successful projects had funding goals less than $5,000 and between $35,000 to $44,999 around 70% success rate. The cancelation rate is zero through these range of goals.
 ### Challenges and Difficulties Encountered
 
 ## Results
