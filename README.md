@@ -31,8 +31,8 @@ Overall, As we notice the trend of increase and decrease of successful and faile
 2. Another possible challenge was determining where each dataset should placed in the pivot table. I had doubt about how should I fill the columns, rows, and value of pivot table with appropriate fields.Because this pivot table was based on outcome and Launch Date so I put "Date created conversion as" Rows and outcomes as Columns.
 3. I found some difficulties with how could I hide live label because it ask us to filter the column labels to show only "successful," "failed," and "canceled." However, I found I could unselect live lable either from a line chart or put filter on column lables. 
 
-- challenges that I was encountered with Analysis of Outcomes Based on Goals:
-1.First I had no idea how I should use countif() and sum() functions to extract data. To collect the number of failed, canceled and successful and goal data for the “plays” subcategory I had to use COUNTIFS() function,The COUNTIFS function counts the number of cells in a range that match one supplied criteria. COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2]…) so by searching on google I learnt how to use it then use Sum() function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row
+- challenges that I was faced with Analysis of Outcomes Based on Goals:
+1. First I had no idea how I should use countif() and sum() functions to extract data. To collect the number of failed, canceled and successful and goal data for the “plays” subcategory I had to use COUNTIFS() function,The COUNTIFS function counts the number of cells in a range that match one supplied criteria. COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2]…) so by searching on google I learnt how to use it then use Sum() function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
