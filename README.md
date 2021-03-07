@@ -28,7 +28,7 @@ Overall, As we notice the trend of increase and decrease of successful and faile
 ### Challenges and Difficulties Encountered
 some challenges that I was encountered with Outcomes Based on Launch Date :
 1. first of all I should extract the year from the “Date Created Conversion” column. So I solved it with year() function
-2. I had doubt about how should I fill the columns, rows, and value of pivot table  with appropriate fields.Because this pivot table was based on outcome and Launch Date so I put "Date created conversion as" Rows and outcomes as Columns.
+2. Another possible challenge was determining where each dataset should placed in the pivot table. I had doubt about how should I fill the columns, rows, and value of pivot table with appropriate fields.Because this pivot table was based on outcome and Launch Date so I put "Date created conversion as" Rows and outcomes as Columns.
 3. I found some difficulties with how could I hide live label because it ask us to filter the column labels to show only "successful," "failed," and "canceled." However, I found I could unselect live lable either from a line chart or put filter on column lables. 
 ## Results
 
