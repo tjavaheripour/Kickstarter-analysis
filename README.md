@@ -26,7 +26,10 @@ We use countif() function to count how many successful, failed, and canceled pro
 
 Overall, As we notice the trend of increase and decrease of successful and failed outcomes based on goal are contract each other. By looking at the line chart we can see two dramatic drops in successful rate between $20,000 to $34,999 and $40,0000 and $49,999 funding goals. However, The most successful projects had funding goals less than $5,000 and between $35,000 to $44,999 around 70% success rate. The cancelation rate is zero through these range of goals.
 ### Challenges and Difficulties Encountered
-
+some challenges that I was encountered with Outcomes Based on Launch Date :
+1. first of all I should extract the year from the “Date Created Conversion” column. So I solved it with year() function
+2.I had doubt about how should I fill the columns, rows, and value of pivot table  with appropriate fields.Because this pivot table was based on outcome and Launch Date so I put "Date created conversion as" Rows and outcomes as Columns.
+3.I found some difficulties with how could I hide live label because it ask us to filter the column labels to show only "successful," "failed," and "canceled." However, I found I could unselect live lable either from a line chart or put filter on column lables. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
