@@ -13,7 +13,7 @@ So by visualizing campaign outcomes based on their launch dates and their fundin
 
 ### Analysis of Outcomes Based on Launch Date
 visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date.
-For analyse the data we need o extract the year from the “Date Created Conversion” column with this function: =YEAR( ) then creat a pivot table with "theater" filter then visualize the relationship between outcomes and launch month by line chart.
+To analize the data we need to extract the year from the “Date Created Conversion” column from the kickstarter_challenge.xlsx with this function: =YEAR( ).  Next step, insert a pivot table in Excel and choose "theater" for the filter then from the Charts insert a lince chart to visualize the relationship between outcomes and launch month.
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/tjavaheripour/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
