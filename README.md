@@ -19,6 +19,7 @@ First we need to extract the year from the “Date Created Conversion” column 
 
 The above line chart indicate to the relationship between outcome of campaign and the launch month during 2009 to 2017.Due to the result as we can see the most theater campaigns that were launched in May and June had a higher numbers of success than other months. We can also draw from the chart that starting a campaign on Fall especially on December and Winter would not have the best chance of being successful.
 ### Analysis of Outcomes Based on Goals
+We want to know how outcomes were effected by the Goal, So we created a new sheet called "Outcomes Based on Goals" where I put ranges of goal . I used the Sum function to find how many projects were in each funding group bucket to calculate the percentage of successful, failed, and canceled projects. I created a chart called "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis.
 The line graph illustrates the percentage of successful, failed, and canceled plays based on the funding goal amount ,
 We use countif() function to count how many successful, failed, and canceled projects were created with goals within the range list, for example =COUNTIFS(Kickstarter!F:F,"successful",Kickstarter!D:D,"<1000",Kickstarter!R:R,"plays") for calculate number of success then repeated this with failed and canceled campaigns as well.
 
