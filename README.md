@@ -42,7 +42,7 @@ Overall, As we notice the trend of increase and decrease of successful and faile
 2.	Actually Fall specially on October might be the worse launch time for theater’s campaign due to the low range of successful and high number of failed outcomes. In addition, starting a campaign on December has less chance to be successful because of low rate of success and significant drop in the total number of campaigns in this month.
 
 #### - What can you conclude about the Outcomes based on Goals?
-
+     -	I can draw from the chart that the chance of having successful play campaigns is greater when the amounts of goal is lower and having the funding Goal ranges less than $5000 give the higher percentage of success by increasing trend . In addition, the percentage of canceled theater campaigns is zero, so there is a zero flat line for that in the line chart.
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
