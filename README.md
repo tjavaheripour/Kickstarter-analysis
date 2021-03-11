@@ -36,12 +36,12 @@ Overall, As we notice the trend of increase and decrease of successful and faile
   - First I had no idea how I should use countif() and sum() functions for the generation of the Outcomes Based on Goals chart and it was challenging for me. To collect the outcome and goal data for the “plays” subcategory I had to use COUNTIFS() function,The COUNTIFS function counts the number of cells in a range that match one supplied criteria. COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2]…) so by searching on google I learnt how to use it correctly then use Sum() function to populate the "Total Projects" column with the number of successful, failed, and canceled projects for each row
 ## Results
 
-## - What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1.	As line chart display, summer is the best time to start the theater’s campaign through the years, because it shows the highest number of successful projects that were launched during May to July.
 
 2.	Actually Fall specially on October might be the worse launch time for theater’s campaign due to the low range of successful and high number of failed outcomes. In addition, starting a campaign on December has less chance to be successful because of low rate of success and significant drop in the total number of campaigns in this month.
 
-## - What can you conclude about the Outcomes based on Goals?
+#### - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
