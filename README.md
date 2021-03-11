@@ -36,6 +36,9 @@ Overall, As we notice the trend of increase and decrease of successful and faile
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+1.	As line chart display, summer is the best time to start the theater’s campaign through the years, because it shows the highest number of successful projects that were launched during May to July.
+
+2.	Actually Fall specially on October might be the worse launch time for theater’s campaign due to the low range of successful and high number of failed outcomes. In addition, starting a campaign on December has less chance to be successful because of low rate of success and significant drop in the total number of campaigns in this month.
 
 - What can you conclude about the Outcomes based on Goals?
 
