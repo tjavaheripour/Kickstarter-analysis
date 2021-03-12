@@ -48,7 +48,7 @@ Overall, As we notice the trend of increase and decrease of successful and faile
 -	Maybe some outcomes results had been changed through the years of 2017 to 2021 especially due to effect of covid-19 in economic and people’s life, so we shouldn’t expect same trends that perform during 2009-2017.
 -	In analysis of “outcomes by launch date” with focus on theater’s campaigns that include 3 subcategories that are “spaces”, “musical” and “plays” which the majority of these campaign related to “play” subcategory so we couldn’t say with confident these analyze has the same impact on two others subcategory as well.
 
-- What are some other possible tables and/or graphs that we could create?
+#### -  What are some other possible tables and/or graphs that we could create?
 
 
 ## recommendations for Louise
