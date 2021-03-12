@@ -53,4 +53,4 @@ Overall, As we notice the trend of increase and decrease of successful and faile
 -create another line chart for "outcome by launch date" based on play as subcategory
 
 ## recommendations for Louise
-
+- launch theater campaign in May and not around end of year.
