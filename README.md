@@ -54,3 +54,4 @@ Overall, As we notice the trend of increase and decrease of successful and faile
 
 ## recommendations for Louise
 - launch theater campaign in May and not around end of year.
+- "Fever" has more chance of success with funding Goal less than $5000.
