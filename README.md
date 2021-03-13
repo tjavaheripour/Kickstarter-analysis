@@ -23,7 +23,7 @@ We can also conclude from the chart that starting a campaign in fall and winter,
 ### Analysis of Outcomes Based on Goals
 We require to know how outcomes were affected by the goals.  So we created a new sheet called "Outcomes Based on Goals" where we added range of goals starting with "Less than 1000" to “Greater than 50000”. We then used the “countifs()” function to find how many “play” projects were in each outcome corresponding to the goal range. We then need to calculate the success, failure and the canceled rate by dividing the number of successful, failed and canceled campaigns to the number of total projects respectively.
 
-#####For example: =COUNTIFS(Kickstarter!F:F,"successful",Kickstarter!D:D,"<1000",Kickstarter!R:R,"plays") 
+##### For example: =COUNTIFS(Kickstarter!F:F,"successful",Kickstarter!D:D,"<1000",Kickstarter!R:R,"plays") 
 
 The above formula calculates the number of success campaigns reached their goals. 
 Next, we populate the number of projects based on their goal ranges by using sum() function. Finally, we create a line chart called "Outcomes Based on Goal" to depict the relationship between the funding goal dollar ranges and the percentage of outcome for play subcategory.
