@@ -51,6 +51,7 @@ Overall, As we notice the trend of increase and decrease of successful and faile
 
 #### -  What are some other possible tables and/or graphs that we could create?
 -create another line chart with use of pivot table for "outcome by launch date" based on play as subcategory
+-To compare normal distribution of theater campaign and its subcategories use box plots to find outliers.
 
 ## recommendations for Louise
 - launch theater campaign in May and not around end of year.
