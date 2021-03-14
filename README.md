@@ -7,7 +7,8 @@ Louise estimated that she needed over $10.000 to fund her play and decided to do
 
 ### Purpose
 
-Using data analysis functions in Excel, we are going to help Louise determine 1) the best time of the year to launch theater campaign and 2) best dollar range to set fundraising goals.
+Using data analysis functions in Excel, we are going to help Louise determine 1) the best time of the year to launch theater campaign and 
+2) best dollar range to set fundraising goals.
 
 ## Analysis and Challenges
 
